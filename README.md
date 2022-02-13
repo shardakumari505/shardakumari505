@@ -6,7 +6,7 @@
 <h6>Reach me at :</h6>
 
 [![Twitter: sharda](https://img.shields.io/twitter/follow/sharda9_singh?label=Follow)](https://twitter.com/sharda9_singh)
-[![Linkedin: sharda](https://img.shields.io/badge/-Sharda K-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sharda-k-359592201/)
+[![Linkedin: sharda](https://img.shields.io/badge/-Sharda-K-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sharda-k-359592201/)
 [![GitHub Sharda](https://img.shields.io/badge/GitHub-1000?label=Sharda&logo=github&logoColor=white)](https://github.com/shardakumari505)
 [![Gmail Sharda](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](shardakumari505@gmail.com)
 
