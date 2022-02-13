@@ -1,13 +1,13 @@
 <h2><img src="https://media.giphy.com/media/l1BgRvzvyk92jcQ9O/giphy.gif" width="50">  Hello, Sharda Kumari here!! </h2>
 <h4>Developer, Machine Learning practitioner and Tech Enthusiast</h4>
-<p><em>Currently pursuing B.Tech in Electronics and Communication Engineering at<a href="https://www.nitmz.ac.in/">NIT Mizoram</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Open to collaborate on projects within my field of Interest</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Currently pursuing B.Tech in Electronics and Communication Engineering at <a href="https://www.nitmz.ac.in/">NIT Mizoram</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Open to collaborate on projects within my field of Interest</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <h6>Reach me at :</h6>
 
 [![Twitter: sharda](https://img.shields.io/twitter/follow/sharda9_singh?label=Follow)](https://twitter.com/sharda9_singh)
 [![GitHub Sharda](https://img.shields.io/badge/GitHub-1000?label=Sharda&logo=github&logoColor=white)](https://github.com/shardakumari505)
-[![Gmail Sharda](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](shardakumari505@gmail.com)
+[![Gmail Sharda](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shardakumari505@gmail.com)
 [![Linkedin: sharda](https://img.shields.io/badge/LinkedIn-0077B5?label=sharda&style=sharda&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharda-k-359592201/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...  
